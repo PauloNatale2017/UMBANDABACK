@@ -1,0 +1,10 @@
+C:\Users\paulo\source\repos\Umbanda.Api\Umbanda.Domain\obj\Debug\netcoreapp3.1\Umbanda.Domain.csproj.AssemblyReference.cache
+C:\Users\paulo\source\repos\Umbanda.Api\Umbanda.Domain\obj\Debug\netcoreapp3.1\Umbanda.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\source\repos\Umbanda.Api\Umbanda.Domain\obj\Debug\netcoreapp3.1\Umbanda.Domain.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\Umbanda.Api\Umbanda.Domain\obj\Debug\netcoreapp3.1\Umbanda.Domain.AssemblyInfo.cs
+C:\Users\paulo\source\repos\Umbanda.Api\Umbanda.Domain\obj\Debug\netcoreapp3.1\Umbanda.Domain.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\Umbanda.Api\Umbanda.Domain\bin\Debug\netcoreapp3.1\Umbanda.Domain.deps.json
+C:\Users\paulo\source\repos\Umbanda.Api\Umbanda.Domain\bin\Debug\netcoreapp3.1\Umbanda.Domain.dll
+C:\Users\paulo\source\repos\Umbanda.Api\Umbanda.Domain\bin\Debug\netcoreapp3.1\Umbanda.Domain.pdb
+C:\Users\paulo\source\repos\Umbanda.Api\Umbanda.Domain\obj\Debug\netcoreapp3.1\Umbanda.Domain.dll
+C:\Users\paulo\source\repos\Umbanda.Api\Umbanda.Domain\obj\Debug\netcoreapp3.1\Umbanda.Domain.pdb
