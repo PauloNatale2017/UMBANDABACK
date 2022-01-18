@@ -8370,11 +8370,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\paulo\\source\\repos\\Umbanda.Api\\Umbanda.Api\\Umbanda.Api.csproj",
+      "projectUniqueName": "C:\\UMB\\UMBANDABACK\\Umbanda.Api\\Umbanda.Api.csproj",
       "projectName": "Umbanda.Api",
-      "projectPath": "C:\\Users\\paulo\\source\\repos\\Umbanda.Api\\Umbanda.Api\\Umbanda.Api.csproj",
+      "projectPath": "C:\\UMB\\UMBANDABACK\\Umbanda.Api\\Umbanda.Api.csproj",
       "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paulo\\source\\repos\\Umbanda.Api\\Umbanda.Api\\obj\\",
+      "outputPath": "C:\\UMB\\UMBANDABACK\\Umbanda.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8395,8 +8395,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\paulo\\source\\repos\\Umbanda.Api\\Umbanda.Domain\\Umbanda.Domain.csproj": {
-              "projectPath": "C:\\Users\\paulo\\source\\repos\\Umbanda.Api\\Umbanda.Domain\\Umbanda.Domain.csproj"
+            "C:\\UMB\\UMBANDABACK\\Umbanda.Domain\\Umbanda.Domain.csproj": {
+              "projectPath": "C:\\UMB\\UMBANDABACK\\Umbanda.Domain\\Umbanda.Domain.csproj"
             }
           }
         }

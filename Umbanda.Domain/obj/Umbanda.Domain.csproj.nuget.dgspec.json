@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paulo\\source\\repos\\Umbanda.Api\\Umbanda.Domain\\Umbanda.Domain.csproj": {}
+    "C:\\UMB\\UMBANDABACK\\Umbanda.Domain\\Umbanda.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paulo\\source\\repos\\Umbanda.Api\\Umbanda.Domain\\Umbanda.Domain.csproj": {
+    "C:\\UMB\\UMBANDABACK\\Umbanda.Domain\\Umbanda.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paulo\\source\\repos\\Umbanda.Api\\Umbanda.Domain\\Umbanda.Domain.csproj",
+        "projectUniqueName": "C:\\UMB\\UMBANDABACK\\Umbanda.Domain\\Umbanda.Domain.csproj",
         "projectName": "Umbanda.Domain",
-        "projectPath": "C:\\Users\\paulo\\source\\repos\\Umbanda.Api\\Umbanda.Domain\\Umbanda.Domain.csproj",
+        "projectPath": "C:\\UMB\\UMBANDABACK\\Umbanda.Domain\\Umbanda.Domain.csproj",
         "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paulo\\source\\repos\\Umbanda.Api\\Umbanda.Domain\\obj\\",
+        "outputPath": "C:\\UMB\\UMBANDABACK\\Umbanda.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

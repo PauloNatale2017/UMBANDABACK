@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paulo\\source\\repos\\Umbanda.Api\\Umbanda.Repository\\Umbanda.Repository.csproj": {}
+    "C:\\UMB\\UMBANDABACK\\Umbanda.Repository\\Umbanda.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paulo\\source\\repos\\Umbanda.Api\\Umbanda.Repository\\Umbanda.Repository.csproj": {
+    "C:\\UMB\\UMBANDABACK\\Umbanda.Repository\\Umbanda.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paulo\\source\\repos\\Umbanda.Api\\Umbanda.Repository\\Umbanda.Repository.csproj",
+        "projectUniqueName": "C:\\UMB\\UMBANDABACK\\Umbanda.Repository\\Umbanda.Repository.csproj",
         "projectName": "Umbanda.Repository",
-        "projectPath": "C:\\Users\\paulo\\source\\repos\\Umbanda.Api\\Umbanda.Repository\\Umbanda.Repository.csproj",
+        "projectPath": "C:\\UMB\\UMBANDABACK\\Umbanda.Repository\\Umbanda.Repository.csproj",
         "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paulo\\source\\repos\\Umbanda.Api\\Umbanda.Repository\\obj\\",
+        "outputPath": "C:\\UMB\\UMBANDABACK\\Umbanda.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

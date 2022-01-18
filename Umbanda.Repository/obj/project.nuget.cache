@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C0vtqJzVtk9K7Txun9LqNv/sL8DNfvcu8xdAfo4ygz8vBsEfqIfdX14xawvNEXo7ZAHRjThl86vDwcvCOEfefQ==",
+  "dgSpecHash": "Nk8+gzvihXbktJjpl7L+ifG9gT1SIP6Y0vlTnp7tQoRImTjfF0uqz8YvrSOoB+TWIcBR9OZbABCeyAz14oMLcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\paulo\\source\\repos\\Umbanda.Api\\Umbanda.Repository\\Umbanda.Repository.csproj",
+  "projectFilePath": "C:\\UMB\\UMBANDABACK\\Umbanda.Repository\\Umbanda.Repository.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

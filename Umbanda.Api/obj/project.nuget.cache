@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X2i6LMybC3wd8ITx8Xgw8+Gn2Rk2kZdu2G6tzviuFcxN5DZAVLt8izLT8kZGzBA5beFV39Va6Vd6ZDZQxq+qsg==",
+  "dgSpecHash": "vn9KSUtpgBfA5EepK9dEs74JnNv4T9pKi9Ft13S0b/iqutXooPLfh34DY07eaR+uzs4B7Ak7+dpzIMdrBMHEZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\paulo\\source\\repos\\Umbanda.Api\\Umbanda.Api\\Umbanda.Api.csproj",
+  "projectFilePath": "C:\\UMB\\UMBANDABACK\\Umbanda.Api\\Umbanda.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paulo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\paulo\\.nuget\\packages\\microsoft.azure.services.appauthentication\\1.4.0\\microsoft.azure.services.appauthentication.1.4.0.nupkg.sha512",
